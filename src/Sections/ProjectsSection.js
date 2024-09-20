@@ -54,7 +54,7 @@ const ProjectsSection = () => {
             codeLink: "https://github.com/xuanquangIT/ch06-ex2-survey"
         },
         {
-            href: "https://quangvu.azurewebsites.net/ch08_ex1_email/",
+            href: "https://quangvu.azurewebsites.net/ch08-ex1-email/",
             imgSrc: require("../assets/images/projects/JoinEmailList.jpg"),
             imgAlt: "CH08-EX1-EMAIL",
             title: "CH08-EX1-EMAIL",
