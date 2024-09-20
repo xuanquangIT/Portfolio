@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.35ac17ad.css",
+    "main.js": "/Portfolio/static/js/main.412b9455.js",
+    "static/media/myimage.png": "/Portfolio/static/media/myimage.9a85c6122dfa1ecd798e.png",
+    "static/media/bootstrap-icons.woff?": "/Portfolio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Portfolio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/donwload.png": "/Portfolio/static/media/donwload.ca23ed0f39c2c7294969.png",
+    "static/media/JoinEmailList.jpg": "/Portfolio/static/media/JoinEmailList.404ebc9d55da7ac2a1c4.jpg",
+    "static/media/MurachSurvey.png": "/Portfolio/static/media/MurachSurvey.9f0e7412bed033f1485c.png",
+    "static/media/react.png": "/Portfolio/static/media/react.a55a5eb34018c7e1410c.png",
+    "static/media/github.svg": "/Portfolio/static/media/github.434fd07a270092a97677dacd0d63f0d7.svg",
+    "static/media/linked.svg": "/Portfolio/static/media/linked.da1316ae2bfb2515c57b574f2111a674.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.35ac17ad.css.map": "/Portfolio/static/css/main.35ac17ad.css.map",
+    "main.412b9455.js.map": "/Portfolio/static/js/main.412b9455.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35ac17ad.css",
+    "static/js/main.412b9455.js"
+  ]
+}
