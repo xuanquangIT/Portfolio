@@ -14,7 +14,7 @@ const ProjectItem = ({ href, imgSrc, imgAlt, title, description, liveLink, codeL
             <span className="text-light">
               <i className="bi bi-link-45deg"></i> Live Preview
             </span>
-            <a href={codeLink} target="_blank"  className="text-light">
+            <a href={codeLink} target="_blank"  className="text-light text-decoration-none">
               <i className="bi bi-github"></i> View Code
             </a>
           </div>
