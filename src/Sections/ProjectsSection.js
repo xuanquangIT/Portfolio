@@ -71,12 +71,12 @@ const ProjectsSection = () => {
         },
 
         {
-            href: "https://quangvu.azurewebsites.net/ch09_ex2_cart/",
+            href: "https://quangvu.azurewebsites.net/Cart",
             imgSrc: require("../assets/images/projects/cart.png"),
             imgAlt: "CH09-EX2-CART",
             title: "CH09-EX2-CART",
-            description: "Use JSTL to loop through an array list of Product objects.",
-            codeLink: "https://github.com/xuanquangIT/ch09_ex2_cart"
+            description: "Simple project about cart to study Session and Cookie.",
+            codeLink: "https://github.com/xuanquangIT/cart-session-cookies.git"
         }
     ];
 
