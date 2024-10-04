@@ -74,9 +74,18 @@ const ProjectsSection = () => {
             href: "https://quangvu.azurewebsites.net/Cart",
             imgSrc: require("../assets/images/projects/cart.png"),
             imgAlt: "CH09-EX2-CART",
-            title: "CH09-EX2-CART",
+            title: "CART SESSION COOKIES",
             description: "Simple project about cart to study Session and Cookie.",
             codeLink: "https://github.com/xuanquangIT/cart-session-cookies.git"
+        },
+
+        {
+            href: "https://quangvu.azurewebsites.net/SQLGateway/",
+            imgSrc: require("../assets/images/projects/SqlGateway.png"),
+            imgAlt: "SQL Gateway",
+            title: "SQL Gateway",
+            description: "Simple project to learn about jdbc and mysql in web",
+            codeLink: "https://github.com/xuanquangIT/SqlGateway.git"
         }
     ];
 
