@@ -86,6 +86,23 @@ const ProjectsSection = () => {
             title: "SQL Gateway",
             description: "Simple project to learn about jdbc and mysql in web",
             codeLink: "https://github.com/xuanquangIT/SqlGateway.git"
+        },
+
+        {
+            href: "https://quangvu.azurewebsites.net/ConnectionPool/",
+            imgSrc: require("../assets/images/projects/ConnectionPool.png"),
+            imgAlt: "Connection Pool",
+            title: "Connection Pool",
+            description: "An example of Java ConnectionPool Use HikariCP",
+            codeLink: "https://github.com/xuanquangIT/ConnectionPool.git"
+        },
+        {
+            href: "https://quangvu.azurewebsites.net/JSPExample/",
+            imgSrc: require("../assets/images/projects/ConnectionPool.png"),
+            imgAlt: "JSP Example",
+            title: "JSP Example",
+            description: "A simple project to learn about JSP",
+            codeLink: "https://github.com/xuanquangIT/JSP-Example.git"
         }
     ];
 
