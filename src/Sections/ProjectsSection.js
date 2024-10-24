@@ -103,6 +103,14 @@ const ProjectsSection = () => {
             title: "JSP Example",
             description: "A simple project to learn about JSP",
             codeLink: "https://github.com/xuanquangIT/JSP-Example.git"
+        },
+        {
+            href: "https://quangvu.azurewebsites.net/MailSender/",
+            imgSrc: require("../assets/images/projects/ConnectionPool.png"),
+            imgAlt: "Mail Example",
+            title: "Mail Example",
+            description: "A simple project to learn about sending email in Java",
+            codeLink: "/"
         }
     ];
 
